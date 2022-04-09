@@ -1,11 +1,10 @@
 {
-  "short_name": "WalletConnect Example",
-  "name": "WalletConnect Example",
+  "short_name": "StudentID",
+  "name": "WalletConnect StudentID",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "src": "sel.png",
+      "sizes": "64x64 32x32 24x24 16x16"
     }
   ],
   "start_url": "./index.html",
